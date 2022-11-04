@@ -35,9 +35,9 @@ In this exercise I'll be using Tableau to present a business proposal for a bike
 
 #### In Conclusion, the tight clustering of starting & ending locations as well as the average trip durations for rides demonstrates that placement of bikeshares at strategic points in the city, i.e. tourist attractions & densely populated work/office areas within a relatively small geographical area is an integral strategy for generating high utilization. Because males use bikeshares more that females they are a target demographic in terms of marketing, additionally- there is a window of opportunity in the female demographic to increase utilization as well. Segmentation will be import.
 
-#### Managers of the program should also pay special attention to logistics and ensure to maintain availability of bikeshare during morning & evening rushours to avaoid losing customers due to lack of available bikes at peak usage times.
+#### Managers of the program should also pay special attention to logistics and ensure availability of bikeshare during morning & evening rush-hours to avoid losing customers due to lack of available bikes at peak usage times.
 
 #### The following additional visualization might also be helpful for the dataset:
-- Average trip duration by birth year might provide valuable insignts on customer segmentation by age
+- Average trip duration by birth year might provide valuable insights on customer segmentation by age
 - A Heatmap of usage amounts sorted by bike would help inform possible maintenance trends and budgeting
 
