@@ -14,13 +14,13 @@ In this exercise I'll be using Tableau to present a business proposal for a bike
 - Males are 3 times more likely to use a bikeshare than Females
 <img width="741" alt="02" src="https://user-images.githubusercontent.com/105818879/198852929-b17c4de9-9ba0-4e65-a66e-475039e8dd0c.png">
 
-- Bikekeshare utilization is clustered at rush hour during the weekdays and more evenly distributed during the weekend
+- Bikeshare utilization is clustered at rush hour during the weekdays and more evenly distributed during the weekend
 <img width="900" alt="03" src="https://user-images.githubusercontent.com/105818879/198852937-6f01d54a-6474-4368-a883-8f07ce19b548.png">
 
-- Males and Females share the same pattern of utililisation when analyzed at the hour level, with Males showing higher rates of overall utilization
+- Males and Females share the same pattern of utilisation when analyzed at the hour level, with Males showing higher rates of overall utilization
 <img width="1230" alt="04" src="https://user-images.githubusercontent.com/105818879/198852944-d07433d4-91b2-4de9-bd3d-6a1f8a378aa0.png">
 
-- Bikeshare Subscribers of all genders use the the bikes significantly more than more casual non-subscription users 
+- Bikeshare Subscribers of all genders use the bikes significantly more than casual non-subscription users 
 <img width="382" alt="05" src="https://user-images.githubusercontent.com/105818879/198852950-d2207275-a119-4d31-9cd7-8e69b3674ddc.png">
 
 - Bikehsaring starting and ending locations mirror eachother in terms of density
